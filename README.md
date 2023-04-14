@@ -18,7 +18,7 @@
 
 <img src="https://github.com/mynrjad/mynrjad/blob/main/GitHub%20Banner_Mynrjad.png" />
 
-<div align="center"> 🔵 Email me at: <b>ryemjian.dumlao@gmail.com </b> 🔵 Ask me about <b>design and development</b> 🔵 A <b>DFCAITTian</b> at heart </div>
+<div align="center"> 🔵 Email: <b>ryemjian.dumlao@gmail.com </b> 🔵 Ask me about <b>design and development</b> 🔵 A <b>DFCAITTian</b> at heart </div>
 
 <div align="center">
   
