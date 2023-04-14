@@ -3,7 +3,7 @@
 
 <div align="center"> - 🔵 How to reach me: <b>ryemjian.dumlao@gmail.com</b>  - 🔵 Ask me about <b>design and development</b> - 🔵 A <b>DFCAITTian</b> at heart </div>
 
-## 
+###
 
 <img align="left" alt="html" width="70" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="70" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -16,10 +16,11 @@
 <img align="left" alt="canva" width="70" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="left" alt="figma" width="70" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="blender" width="70" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" /> 
-<br>
+<br><br>
+
 ## 
 
-<br> <br> <h3 align="center"> ᴊᴜꜱᴛ ʏᴏᴜʀ ᴄʀᴇᴀᴛɪᴠᴇ ᴅɪʀᴇᴄᴛᴏʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴄᴏᴍᴇᴛ ᴛʜʀᴜ ☄️ </h3>
+<h3 align="center"> ᴊᴜꜱᴛ ʏᴏᴜʀ ᴄʀᴇᴀᴛɪᴠᴇ ᴅɪʀᴇᴄᴛᴏʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴄᴏᴍᴇᴛ ᴛʜʀᴜ ☄️ </h3>
 
 
 I'm <b>RJ</b> from Dr. Filemon C. Aguilar Memorial College of Las Piñas, I talk about design and web development! I enjoy working with individuals and assisting them in discovering their passion for technology and web development. I am a Graphic Designer and Creative Director at TS who appreciates UI/UX design and strives to create strong community interactions while advocating open-source technologies.
