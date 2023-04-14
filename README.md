@@ -16,7 +16,7 @@
   </a>
 </p>
 
-[<img src="https://github.com/mynrjad/mynrjad/blob/main/GitHub%20Banner_Mynrjad.png" width="900" height="300" /> ](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white) 
+<img src="https://github.com/mynrjad/mynrjad/blob/main/GitHub%20Banner_Mynrjad.png" />
 
 <div align="center"> 🔵 Email me at: <b>ryemjian.dumlao@gmail.com </b> 🔵 Ask me about <b>design and development</b> 🔵 A <b>DFCAITTian</b> at heart </div>
 
