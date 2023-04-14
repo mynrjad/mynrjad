@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Argentum+Sans&pause=1000&color=FFFFFF&width=440&height=57&lines=Git+Together+for+a+Bright+Future.)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Argentum+Sans&pause=1000&color=FFFFFF&center=true&width=600&height=70&lines=Git+Together+for+a+Bright+Future.)](https://git.io/typing-svg)
+  
+</div>
 
 <img src="https://github.com/mynrjad/mynrjad/blob/main/GitHub%20Banner_Mynrjad.png" width="900" height="300" /> 
 
