@@ -35,18 +35,20 @@ I'm <b>RJ</b> from Dr. Filemon C. Aguilar Memorial College of Las Piñas, I talk
 
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="AI"  src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+    <img alt="AI"  src="https://img.shields.io/badge/Adobe%20Illustrator-2E43D4?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 &nbsp;&nbsp;&nbsp;&nbsp;
- <img alt="ID"  src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white">
+ <img alt="ID"  src="https://img.shields.io/badge/Adobe%20InDesign-2E43D4?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white">
 &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="PS"  src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+    <img alt="PS"  src="https://img.shields.io/badge/Adobe%20Photoshop-2E43D4?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Figma"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img alt="Figma"  src="https://img.shields.io/badge/Figma-2E43D4?style=for-the-badge&logo=figma&logoColor=white">
 &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Blender"  src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+    <img alt="Blender"  src="https://img.shields.io/badge/blender-2E43D4.svg?style=for-the-badge&logo=blender&logoColor=white">
  </p>
 
 ##
+
+
 
 
 
