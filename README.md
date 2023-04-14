@@ -1,12 +1,15 @@
 <p align="center">
  <a href="https://www.behance.net/mynrjad">
-    <img alt="linkedin profile" title="Follow Me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="linkedin profile" title="Follow Me on LinkedIn" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
  <a href="https://www.behance.net/mynrjad">
-    <img alt="twitter profile" title="Follow Me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img alt="twitter profile" title="Follow Me on Twitter" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 <a href="https://www.behance.net/mynrjad">
-    <img alt="Instagram profile" title="Follow Me on Insta" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img alt="Instagram profile" title="Follow Me on Insta" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+<a href="https://www.behance.net/mynrjad">
+    <img alt="Behanceprofile" title="Follow Me on Behance" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=behance&logoColor=white">
   </a>
 </p>
 
