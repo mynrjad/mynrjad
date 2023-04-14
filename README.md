@@ -1,15 +1,18 @@
 <p align="center">
- <a href="https://www.behance.net/mynrjad">
+ <a href="https://www.linkedin.com/in/mynrjad/">
     <img alt="linkedin profile" title="Follow Me on LinkedIn" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=linkedin&logoColor=white">
+&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
- <a href="https://www.behance.net/mynrjad">
+ <a href="https://twitter.com/mynrjad">
     <img alt="twitter profile" title="Follow Me on Twitter" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=twitter&logoColor=white">
+&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
-<a href="https://www.behance.net/mynrjad">
+<a href="https://www.instagram.com/mynrjad/">
     <img alt="Instagram profile" title="Follow Me on Insta" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=instagram&logoColor=white">
+&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 <a href="https://www.behance.net/mynrjad">
-    <img alt="Behanceprofile" title="Follow Me on Behance" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=behance&logoColor=white">
+    <img alt="Behance profile" title="Follow Me on Behance" src="https://img.shields.io/badge/mynrjad-2E43D4?style=for-the-badge&logo=behance&logoColor=white">
   </a>
 </p>
 
