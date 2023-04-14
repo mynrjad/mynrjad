@@ -21,9 +21,10 @@
 
 <br>
 
-<h3 align="center"> ᴊᴜꜱᴛ ʏᴏᴜʀ ᴄʀᴇᴀᴛɪᴠᴇ ᴅɪʀᴇᴄᴛᴏʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴄᴏᴍᴇᴛ ᴛʜʀᴜ ☄️ </h3>
+<h2 align="center"> ᴊᴜꜱᴛ ʏᴏᴜʀ ᴄʀᴇᴀᴛɪᴠᴇ ᴅɪʀᴇᴄᴛᴏʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴄᴏᴍᴇᴛ ᴛʜʀᴜ ☄️ </h2>
 
-
-I'm <b>RJ</b> from Dr. Filemon C. Aguilar Memorial College of Las Piñas, I talk about design and web development! I enjoy working with individuals and assisting them in discovering their passion for technology and web development. I am a Graphic Designer and Creative Director at TS who appreciates UI/UX design and strives to create strong community interactions while advocating open-source technologies.
+<div style="text-align: justify" align="center">
+I'm <b>RJ</b> from Dr. Filemon C. Aguilar Memorial College of Las Piñas, I talk about design and web development! I enjoy working with individuals and assisting them in discovering their passion for technology and web development. I am a Graphic Designer and Creative Director at TS who appreciates UI/UX design and strives to create strong community interactions while advocating open-source technologies. 
+</div>
 
 
