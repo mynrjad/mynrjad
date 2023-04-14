@@ -43,8 +43,6 @@ I'm <b>RJ</b> from Dr. Filemon C. Aguilar Memorial College of Las Piñas, I talk
 &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Figma"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Canva"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Blender"  src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
  </p>
 
