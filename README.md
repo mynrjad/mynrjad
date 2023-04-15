@@ -46,9 +46,5 @@ I'm <b>RJ</b> from Dr. Filemon C. Aguilar Memorial College of Las Piñas, I talk
     <img alt="Blender"  src="https://img.shields.io/badge/blender-2E43D4.svg?style=for-the-badge&logo=blender&logoColor=white">
  </p>
 
-##
-
-
-
 
 
